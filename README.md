@@ -9,7 +9,7 @@
 ![Layout](https://img.shields.io/badge/layout-Outlet-8A2BE2?style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-dev-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
-<img src="assets/nova-pasillos.webp" width="460" alt="Nova señalando los letreros de los pasillos de la estación mientras Kuma lleva una caja">
+<img src="assets/nova-taller.webp" width="360" alt="Nova arregla un motor con su llave inglesa mientras Kuma le alumbra con una linterna">
 
 </div>
 
